@@ -9,7 +9,6 @@ Repository of RMUTT 09115406: Project in Mathematics 2
 
 Practice on conduction a research in mathematics applied mathematics or related fields, presentation and report writing in mathematical project, by consideration of project advisor
 
----
 
 ## Course Schedule
 
@@ -17,7 +16,6 @@ Practice on conduction a research in mathematics applied mathematics or related 
 |----------|------|-------|-----------|
 | ส่งเล่มรายงานครั้งที่ 1 | 21 มกราคม 2565 | 16.00 น. | ส่งผ่าน Assignment ของ MS Teams |
 
----
 
 ## Report Templates
 
@@ -31,7 +29,6 @@ Practice on conduction a research in mathematics applied mathematics or related 
 หากพบปัญหาในการใช้งาน ให้นักศึกษารายงานต่ออาจารย์ที่ปรึกษาหรือสาขาวิชา
 ทั้งนี้ไม่อนุญาตให้ดัดแปลงไฟล์คลาส (`*.cls`) ของรายงานโดยเด็ดขาด
 
----
 
 ## List of Projects
 
