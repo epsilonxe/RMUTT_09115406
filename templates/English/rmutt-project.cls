@@ -50,7 +50,7 @@
 % This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of th.
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{rmutt-project}[2025/03/13 RMUTT PROJECT CLASS]
+\ProvidesClass{rmutt-project}[2025/03/20 RMUTT PROJECT CLASS]
 
 \LoadClass[11pt, oneside]{book}
 
@@ -87,7 +87,7 @@
 
 
 % -------------------------------------------------
-\def\ver{EN20250313.0025}
+\def\ver{EN20250320.2048}
 % \def\engtitle#1{\def\@engtitle{#1}}
 \def\year#1{\def\@year{#1}}
 \def\firststudent#1{\def\@firststudent{#1}}
@@ -211,7 +211,7 @@ The undersigned project committee of Department of Mathematics and Computer Scie
 % -------------------------------------------------
 \newcommand{\committee}[2]{
 \vspace{1cm}\par
-\begin{tabular}{p{0.3\textwidth}p{0.4\textwidth}p{0.2\textwidth}}
+\begin{tabular}{p{0.1\textwidth}p{0.6\textwidth}p{0.2\textwidth}}
 &  & #2\\ 
 & (#1) & 
 \end{tabular}	
@@ -219,7 +219,7 @@ The undersigned project committee of Department of Mathematics and Computer Scie
 
 \newcommand{\headcommittee}[1]{
 \vspace{1cm}\par
-\begin{tabular}{p{0.3\textwidth}p{0.4\textwidth}p{0.2\textwidth}}
+\begin{tabular}{p{0.1\textwidth}p{0.6\textwidth}p{0.2\textwidth}}
 & \phantom{x}\hfill(#1)\hfill\phantom{x} & \\
 & \phantom{x}\hfill{}Head of Mathematics Divison\hfill\phantom{x} &
 \end{tabular}	

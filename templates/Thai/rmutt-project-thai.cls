@@ -50,7 +50,7 @@
 % This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of th.
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{rmutt-project-thai}[2025/03/13 RMUTT PROJECT CLASS]
+\ProvidesClass{rmutt-project-thai}[2025/03/20 RMUTT PROJECT CLASS]
 
 \LoadClass[11pt, oneside]{book}
 
@@ -88,7 +88,7 @@
 
 % -------------------------------------------------
 
-\def\ver{TH20250313.1455}
+\def\ver{TH20250320.2053}
 \def\engtitle#1{\def\@engtitle{#1}}
 \def\year#1{\def\@year{#1}}
 \def\firststudent#1{\def\@firststudent{#1}}
@@ -214,16 +214,16 @@ Title of Project & \@engtitle\relax\\
 }
 % -------------------------------------------------
 \newcommand{\committee}[2]{
-\vspace{1cm}\par
-\begin{tabular}{p{0.1\textwidth}p{0.45\textwidth}p{0.3\textwidth}}
+\vspace{8mm}\par
+\begin{tabular}{p{0.05\textwidth}p{0.55\textwidth}p{0.3\textwidth}}
 &  & #2\\ 
 & (#1) & 
 \end{tabular}	
 }
 
 \newcommand{\headcommittee}[1]{
-\vspace{1cm}\par
-\begin{tabular}{p{0.3\textwidth}p{0.4\textwidth}p{0.2\textwidth}}
+\vspace{8mm}\par
+\begin{tabular}{p{0.2\textwidth}p{0.7\textwidth}p{0.05\textwidth}}
 & \phantom{x}\hfill(#1)\hfill\phantom{x} & \\
 & \phantom{x}\hfill{}หัวหน้าสาขาวิชาคณิตศาสตร์\hfill\phantom{x} &
 \end{tabular}	
